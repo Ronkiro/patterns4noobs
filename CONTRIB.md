@@ -4,6 +4,8 @@ Para contribuir com o patterns4noobs:
 
 > Consulte a aba Projects!
 
+> [Deseja colaborar?](https://github.com/Ronkiro/patterns4noobs/issues/1)
+
 ```s
 // Realize um fork deste projeto
 // Clone seu fork para o seu computador
