@@ -6,6 +6,7 @@
 </h1>
 
 [Ir ao sumário](SUMMARY.md)
+
 [Ajude à contribuir!](CONTRIB.md)
 
 Da comunidade para a comunidade.

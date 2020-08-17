@@ -40,3 +40,9 @@ Pronto, sua branch será revisada e poderá ser (ou não) aprovada!!
 Caso suas alterações não sejam aprovadas, não se desmotive. O revisor irá informar o motivo, e lhe auxiliará a ajudar com alterações futuras.
 
 Serão recusados Pull Requests que não condizam com o repositório, assim como repositórios que precisem de melhorias grandes.
+
+---
+
+[Ir ao sumário](SUMMARY.md)
+
+[Retornar à página inicial](README.md)
