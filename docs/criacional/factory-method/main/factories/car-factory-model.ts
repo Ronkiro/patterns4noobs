@@ -8,7 +8,9 @@ export class CarFactory implements ICarFactory {
     let car: Car = this.createCar();
     const wheels = this.addWheels();
     const engine = this.addEngine();
-    car = { wheels, engine };
+
+    car.wheels = wheels;
+    car.engine = engine;
 
     return car;
   }
